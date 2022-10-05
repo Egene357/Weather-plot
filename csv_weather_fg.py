@@ -1,4 +1,4 @@
-#Chart comparing daily rainfall in the Death Valley desert from Sitka.
+#Diagram comparing air temperature in the desert of Death Valley and in Sitka.
 
 import csv
 from datetime import datetime
